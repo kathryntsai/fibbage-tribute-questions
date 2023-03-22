@@ -7,9 +7,10 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "firebase-admin": "^7.0.0"
+    "firebase-admin": "^7.0.0",
+    "got": "^12.6.0",
+    "request": "^2.88.2"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +24,6 @@
   "bugs": {
     "url": "https://github.com/Minious/fibbage-tribute-questions/issues"
   },
-  "homepage": "https://github.com/Minious/fibbage-tribute-questions#readme"
+  "homepage": "https://github.com/Minious/fibbage-tribute-questions#readme",
+  "keywords": []
 }
